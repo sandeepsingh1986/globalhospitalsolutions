@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <p><span style="color:red;">*</span> Search for schools and not hospitals as you may get exposure in hospital.</p>
   <p>I myself was able to get a slot in my first attempt using this method. It took me only 2 minutes. Though it make take you 2-3 hours, it may be tiring. &nbsp</p>
   <p>Hope you find this help useful.</p>	 
-  <p>You can fill the <a href="http://globalhospitalsolutions.com/contact.php" target="_blank">Contact Form</a> and let me know about your quest in getting vaccination slot through this site.</p>	 
+  <p>You can fill the <a href="contact.php" target="_blank">Contact Form</a> and let me know about your quest in getting vaccination slot through this site.</p>	 
   <p>Thank You ! <img src="images/namaste.jpeg"></p> 	
  </div>
 </div>	
